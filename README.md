@@ -2,7 +2,7 @@
 
 ![Resume](assets/readme_1.png)
 
-Resume by [WordPress.org](https://wordpress.org/themes/resume/) is a Grav conversion of 2015 most popular Wordpress theme. This theme is clean, blog-focused, and designed for clarity. Resume's simple, straightforward typography is readable on a wide variety of screen sizes, and suitable for multiple languages. We designed it using a mobile-first approach, meaning your content takes center-stage, regardless of whether your visitors arrive by smartphone, tablet, laptop, or desktop computer.
+Resume by [Fernando Báez](https://www.behance.net/gallery/FREE-Resume-Template/15677411) is a Grav implementation of free PSD resume theme.
 
 # Features
 
