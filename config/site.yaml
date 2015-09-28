@@ -1,4 +1,4 @@
-title: Grav
+title: Resume
 description: Free and responsive theme for GRAV. Port of Resume template by Wordpress.org.
 author:
   name: Team Grav
@@ -21,70 +21,3 @@ social:
     url: http://plus.google.com
   - text: Github
     url: https://github.com/getgrav/grav
-
-presets:
-  dark:
-    background_color : "#111111" 
-    header_background_color : "#202020" 
-    box_background_color : "#202020" 
-    textcolor : "#bebebe" 
-    secondary_textcolor : "rgba( 190, 190, 190, 0.7)" 
-    border_color : "rgba( 190, 190, 190, 0.1)" 
-    border_focus_color : "rgba( 190, 190, 190, 0.3)" 
-    sidebar_textcolor: "#bebebe" 
-    sidebar_border_color: "rgba( 190, 190, 190, 0.1)" 
-    sidebar_border_focus_color: "rgba( 190, 190, 190, 0.3)" 
-    secondary_sidebar_textcolor: "rgba( 190, 190, 190, 0.7)" 
-    meta_box_background_color: "#1b1b1b" 
-  yellow: 
-    background_color: "#f4ca16" 
-    header_background_color: "#ffdf00" 
-    box_background_color: "#ffffff" 
-    textcolor : "#111111" 
-    secondary_textcolor: "rgba( 17, 17, 17, 0.7)" 
-    border_color: "rgba( 17, 17, 17, 0.1)" 
-    border_focus_color: "rgba( 17, 17, 17, 0.3)" 
-    sidebar_textcolor: "#111111" 
-    sidebar_border_color: "rgba( 17, 17, 17, 0.1)" 
-    sidebar_border_focus_color: "rgba( 17, 17, 17, 0.3)" 
-    secondary_sidebar_textcolor: "rgba( 17, 17, 17, 0.7)" 
-    meta_box_background_color: "#f1f1f1" 
-  pink: 
-    background_color: "#ffe5d1" 
-    header_background_color: "#e53b51" 
-    box_background_color: "#ffffff" 
-    textcolor : "#352712" 
-    secondary_textcolor: "rgba( 53, 39, 18, 0.7)" 
-    border_color: "rgba( 53, 39, 18, 0.1)" 
-    border_focus_color: "rgba( 53, 39, 18, 0.3)" 
-    sidebar_textcolor: "#ffffff" 
-    sidebar_border_color: "rgba( 255, 255, 255, 0.1)" 
-    sidebar_border_focus_color: "rgba( 255, 255, 255, 0.3)" 
-    secondary_sidebar_textcolor: "rgba( 255, 255, 255, 0.7)" 
-    meta_box_background_color: "#f1f1f1" 
-  purple:
-    background_color: "#674970" 
-    header_background_color: "#2e2256" 
-    box_background_color: "#ffffff" 
-    textcolor : "#2e2256" 
-    secondary_textcolor: "rgba( 46, 34, 86, 0.7)" 
-    border_color: "rgba( 46, 34, 86, 0.1)" 
-    border_focus_color: "rgba( 46, 34, 86, 0.3)" 
-    sidebar_textcolor: "#ffffff" 
-    sidebar_border_color: "rgba( 255, 255, 255, 0.1)" 
-    sidebar_border_focus_color: "rgba( 255, 255, 255, 0.3)" 
-    secondary_sidebar_textcolor: "rgba( 255, 255, 255, 0.7)" 
-    meta_box_background_color: "#f1f1f1" 
-  blue:
-    background_color: "#e9f2f9" 
-    header_background_color: "#55c3dc" 
-    box_background_color: "#ffffff" 
-    textcolor : "#22313f" 
-    secondary_textcolor: "rgba( 34, 49, 63, 0.7)" 
-    border_color: "rgba( 34, 49, 63, 0.1)" 
-    border_focus_color: "rgba( 34, 49, 63, 0.3)" 
-    sidebar_textcolor: "#ffffff" 
-    sidebar_border_color: "rgba( 255, 255, 255, 0.1)" 
-    sidebar_border_focus_color: "rgba( 255, 255, 255, 0.3)" 
-    secondary_sidebar_textcolor: "rgba( 255, 255, 255, 0.7)" 
-    meta_box_background_color: "#f1f1f1" 
