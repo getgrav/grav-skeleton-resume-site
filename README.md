@@ -6,19 +6,7 @@ Resume by [Fernando Báez](https://www.behance.net/gallery/FREE-Resume-Template/
 
 # Features
 
-* Mobile-first, Responsive Layout
-* Custom Colors
-* Custom Header
-* Social Links
-* Customizable options through admin interface
-* 5 Predefined Color Schemes
-* MultiLanguage support
-* Archives plugin support
-* Search plugin support
-* RelatedPages plugin support
-* TaxonomyList plugin support
-* Feeds
-* The GPL v2.0 or later license. :) Use it to make something cool.
+* coming soon
 
 ## Basic Setup for a new Grav site
 
