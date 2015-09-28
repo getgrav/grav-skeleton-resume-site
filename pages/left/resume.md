@@ -1,7 +1,6 @@
 ---
-title: Blog
-blog_url: blog
-menu: Blog
+title: Resume
+blog_url: resume
 
 sitemap:
     changefreq: monthly
@@ -16,10 +15,7 @@ content:
     pagination: true
 
 feed:
-    description: Sample Blog Description
+    description: Resume Description
     limit: 10
-
-pagination: true
 ---
 
-# Our Blog

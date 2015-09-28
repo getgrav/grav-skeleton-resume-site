@@ -1,5 +1,5 @@
 home:
-  alias: '/blog'
+  alias: '/left'
 
 pages:
   theme: resume
