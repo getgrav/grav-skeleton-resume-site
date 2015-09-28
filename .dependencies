@@ -1,0 +1,90 @@
+git:
+    error:
+        url: https://github.com/getgrav/grav-plugin-error
+        path: user/plugins/error
+        branch: develop
+    problems:
+        url: https://github.com/getgrav/grav-plugin-problems
+        path: user/plugins/problems
+        branch: develop
+    simplesearch:
+        url: https://github.com/getgrav/grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        branch: develop
+    feed:
+        url: https://github.com/getgrav/grav-plugin-feed
+        path: user/plugins/feed
+        branch: develop
+    random:
+        url: https://github.com/getgrav/grav-plugin-random
+        path: user/plugins/random
+        branch: develop    
+    pagination:
+        url: https://github.com/getgrav/grav-plugin-pagination
+        path: user/plugins/pagination
+        branch: develop    
+    relatedpages:
+        url: https://github.com/getgrav/grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        branch: develop
+    simple_form:
+        url: https://github.com/nunopress/grav-plugin-simple_form
+        path: user/plugins/simple_form
+        branch: develop
+    taxonomylist:
+        url: https://github.com/getgrav/grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
+        branch: develop
+    archives:
+        url: https://github.com/getgrav/grav-plugin-archives
+        path: user/plugins/archives
+        branch: develop   
+    resume:
+        url: https://github.com/getgrav/grav-theme-resume
+        path: user/themes/resume
+        branch: develop
+links:
+    error:
+        src: grav-plugin-error
+        path: user/plugins/error
+        scm: github
+    problems:
+        src: grav-plugin-problems
+        path: user/plugins/problems
+        scm: github
+    simplesearch:
+        src: grav-plugin-simplesearch
+        path: user/plugins/simplesearch
+        scm: github
+    feed:
+        src: grav-plugin-feed
+        path: user/plugins/feed
+        scm: github
+    random:
+        src: grav-plugin-random
+        path: user/plugins/random
+        scm: github    
+    pagination:
+        src: grav-plugin-pagination
+        path: user/plugins/pagination
+        scm: github    
+    relatedpages:
+        src: grav-plugin-relatedpages
+        path: user/plugins/relatedpages
+        scm: github
+    simple_form:
+        src: grav-plugin-simple_form
+        path: user/plugins/simple_form
+        scm: github
+    taxonomylist:
+        src: grav-plugin-taxonomylist
+        path: user/plugins/taxonomylist
+        scm: github
+    archives:
+        src: grav-plugin-archives
+        path: user/plugins/archives
+        scm: github 
+    resume:
+        src: grav-theme-resume
+        path: user/themes/resume
+        scm: github
