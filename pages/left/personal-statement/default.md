@@ -1,6 +1,8 @@
 ---
 title: PERSONAL STATEMENT
 date: 13:34 06/21/2014 
+taxonomy:
+    category: left
 ---
 
 I'm a 25 years old Art Director & Freelance Designer from Valladolid (Spain) currently based in Madrid. I love everything that has to do with Web design & development, Graphic design, Packaging, Industrial design and I feel a true devotion for typography.
