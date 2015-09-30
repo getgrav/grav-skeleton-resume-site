@@ -1,6 +1,6 @@
 ---
 title: PERSONAL STATEMENT
-date: 13:34 06/21/2014 
+date: 13:34 07/21/2014 
 taxonomy:
     category: left
 ---
