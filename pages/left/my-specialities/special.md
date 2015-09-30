@@ -2,13 +2,13 @@
 title: MY SPECIALITIES
 date: 13:34 05/21/2014 
 specialities:
-    - icon: home
+    - icon: lightbulb
       text: Logo Design
       animation: fadeInDown
-    - icon: bookmark
+    - icon: page-multiple
       text: Branding 
       animation: fadeInUp
-    - icon: info
+    - icon: results
       text: Minimal Web Design
       animation: fadeInLeft
 taxonomy:
