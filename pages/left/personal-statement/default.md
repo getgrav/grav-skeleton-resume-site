@@ -5,8 +5,8 @@ taxonomy:
     category: left
 ---
 
-I'm a 25 years old Art Director & Freelance Designer from Valladolid (Spain) currently based in Madrid. I love everything that has to do with Web design & development, Graphic design, Packaging, Industrial design and I feel a true devotion for typography.
+Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Aenean lacinia bibendum nulla sed consectetur.Donec id elit non mi porta gravida at eget metus..
 
-I have 4 years of experience working as a freelance and working on an studio, but and I’m ready for visiting other countries & work for any design studio! I love working with people, specially if they have the same passion I have for what they do. 
+Praesent commodo cursus magna, vel scelerisque nisl consectetur et. Aenean eu leo quam. Pellentesque ornare sem lacinia quam venenatis vestibulum. Cras mattis consectetur purus sit amet fermentum. 
 
-Why don't we work together? Go futher down to see why I am the man you need to hire!
+Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. 

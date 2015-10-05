@@ -1,4 +1,4 @@
-title: Fernando Báez
+title: Leo C. Wilhoit
 description: Graphic & Web Designer
 author:
   name: Team Grav
@@ -6,29 +6,19 @@ author:
 metadata:
     description: 'Resume is a free and responsive theme for **Grav**. Its a port of Resume template by HTML5UP.'
 
-website: "justcreativeideas.com"
+website: "getgrav.org"
 
 address:
-    - line: "C/ Magallanes 21, 7ºF"
+    - line: "811 Margaret Street"
     - line: "28015,"
-    - line: "Madrid. SPAIN."
+    - line: "Sugar Land, TX 77478"
 contact: 
-    - line: "fernando@justcreativeideas.com"
-    - line: "+34 650 39 25 19"
-    - line: "@fernandobaez88"
+    - line: "LeoCWilhoit@jourrapide.com"
+    - line: "+34 713-902-8117"
+    - line: "@LeoCWilhoit"
 
 # Main Menu
 menu:
   - text: External link
     description: "External link with description."
     link: "#" 
-
-social:
-  - text: Twitter
-    url: http://twitter.com/getgrav
-  - text: Facebook
-    url: http://facebook.com
-  - text: Google
-    url: http://plus.google.com
-  - text: Github
-    url: https://github.com/getgrav/grav
