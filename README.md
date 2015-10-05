@@ -10,15 +10,15 @@ Resume by [Fernando Báez](https://www.behance.net/gallery/FREE-Resume-Template/
 * Based on Foundation framework
 * Two-Column approach
 * Specialities layout with custom icons and descriptions
-* Design skills layout with percentage grid
-* Language skills with automatic pie charts
+* Design Skills layout with percentage grid
+* Language Skills layout with automatic pie charts
 * Education history special layout
 * Experience layout
-* Recognitions layout with SVG ribbons
+* Recognitions layout with SVG ribbon
 * Hobbies & Interests layout with custom icons and descriptions
 * Foundation Icon Fonts 3 (around 283 icons included)
 * Animate.css support in layouts. You can animate each separate item.
-* Fully responsive. Designed with mobile first approach.
+* Fully responsive. Designed with mobile first approach
 
 ## Basic Setup for a new Grav site
 
