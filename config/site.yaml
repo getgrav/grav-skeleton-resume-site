@@ -16,9 +16,3 @@ contact:
     - line: "LeoCWilhoit@jourrapide.com"
     - line: "+34 713-902-8117"
     - line: "@LeoCWilhoit"
-
-# Main Menu
-menu:
-  - text: External link
-    description: "External link with description."
-    link: "#" 
