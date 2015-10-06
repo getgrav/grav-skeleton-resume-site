@@ -17,8 +17,8 @@ Resume by [Fernando Báez](https://www.behance.net/gallery/FREE-Resume-Template/
 * Recognitions layout with SVG ribbon
 * Hobbies & Interests layout with custom icons and descriptions
 * Foundation Icon Fonts 3 (around 283 icons included)
-* Animate.css support in layouts. You can animate each separate item.
-* Fully responsive. Designed with mobile first approach
+* Animate.css support in layouts. You can animate each separate element.
+* Fully responsive. Designed with mobile first approach.
 
 ## Basic Setup for a new Grav site
 
