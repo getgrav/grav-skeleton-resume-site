@@ -1,0 +1,18 @@
+title: Leo C. Wilhoit
+description: Graphic & Web Designer
+author:
+  name: Team Grav
+  email: 'joe@test.com'
+metadata:
+    description: 'Resume is a free and responsive theme for **Grav**. Its a port of Resume template by HTML5UP.'
+
+website: "getgrav.org"
+
+address:
+    - line: "811 Margaret Street"
+    - line: "28015,"
+    - line: "Sugar Land, TX 77478"
+contact: 
+    - line: "LeoCWilhoit@jourrapide.com"
+    - line: "+34 713-902-8117"
+    - line: "@LeoCWilhoit"
